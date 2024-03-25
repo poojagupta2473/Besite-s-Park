@@ -1,0 +1,22 @@
+.my-btn {
+  cursor: pointer;
+  font-size: 16px;
+  padding: 8px 12px;
+  margin: 0 4px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  user-select: none;
+}
+
+.quantity-input {
+  font-size: 16px;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  width: 40px;
+  text-align: center;
+}
+
+.remove-btn:hover {
+  background-color: #6b6b6b;
+  color: #fff;
+}

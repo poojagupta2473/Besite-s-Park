@@ -1,0 +1,17 @@
+/* custom-navbar.css */
+.navbar-custom-brand {
+  font-size: 1.5rem; /* Custom brand size */
+  font-weight: bold;
+}
+
+.dropdown-menu-custom {
+  background-color: #f0f0f0; /* Light grey background */
+}
+
+.dropdown-item:hover {
+  background-color: #dedede; /* Slightly darker grey on hover */
+}
+
+.nav-item-custom {
+  margin-right: 1rem; /* Custom margin for nav items */
+}
